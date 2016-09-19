@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "IdentiFont",
+  "description": "This extension displays the font of an html element on hover",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "css": ["core.css"],
+      "js": ["core.js"],
+      "all_frames": true
+    }
+  ],
+
+  "browser_action": {
+    "default_icon": "icon.png"
+  }
+
+}
