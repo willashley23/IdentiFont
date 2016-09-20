@@ -8,4 +8,4 @@ Simply hover over the text you are interested in, and IdentiFont will respond wi
 
 ## Demo
 
-![demo]("https://github.com/willashley23/IdentiFont/blob/master/images/demo.png")
+![demo](https://github.com/willashley23/IdentiFont/blob/master/images/demo.png)
